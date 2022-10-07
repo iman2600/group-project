@@ -31,6 +31,12 @@ main h2 {
     padding: 3px;
 }
 
+.isaac-style {
+    color: rgb(29, 97, 37);
+    background-color: rgb(59, 56, 56);
+    padding: 3px;
+}
+
 .code-ninja-style {
     color: blue;
     background-color: lightblue;
